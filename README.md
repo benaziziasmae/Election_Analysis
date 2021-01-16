@@ -52,7 +52,7 @@ The analysis of the election show that :
 
    - Get a complete list of the counties.
    - Calculate the total number of votes for each county.
-   - Calculate the percentage of votes for eachcounty.
+   - Calculate the percentage of votes for each county.
    - Determine the county with the largest turnout.
 
 **2- Election-Audit Results** 
@@ -85,3 +85,6 @@ The analysis of the election show that :
      2.5- Tha candidate that won the election 
    
    As for the candidates, **Diana DeGette** received the most votes, which was *73.8%* of all votes or *272,892* votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes.
+   
+   **3- Election-Audit Summary**
+   
