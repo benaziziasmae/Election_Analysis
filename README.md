@@ -14,6 +14,7 @@ A Colorad Board of Election employee has given the following tasks to complete t
 - Software : Python 3.7 (64 bit) .Visual Studio Code
 
 ## Summary 
+
 The analysis of the election show that :
 - There were "369712" votes cast in the election 
 - The candidates were : 
