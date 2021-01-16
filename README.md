@@ -10,3 +10,13 @@ A Colorad Board of Election employee has given the following tasks to complete t
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
+- Data Source : Election_results.csv
+- Software : Python 3.7 (64 bit) .Visual Studio Code
+
+## Summary 
+The analysis of the election show that :
+- There were "369712" votes cast in the election 
+- The candidates were : 
+    - Candidate 1 : Charles Casper Stockham
+    - Candidate 2 : Diana DeGette
+    - Candidate 3 : Raymon Anthony Doane
