@@ -45,16 +45,15 @@ The analysis of the election show that :
 
 **1- Overview of Election Audit**
 
-- 
-In this section, we will help to find out which county is the largest based off of votes. We previously learned how to read csv files in python and begin to run the data with our coding skills. 
+- In this section, we will help to find out which county is the largest based off of votes. We previously learned how to read csv files in python and begin to run the data with our coding skills. 
 - Breanking down our data: The data file has 3 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In this part  we are slightly doing something similar but different. This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
 
 - After sharing the election audit the election commission asked to confirm each county turnout.
 
-    Get a complete list of the counties.
-    Calculate the total number of votes for each county.
-    Calculate the percentage of votes for eachcounty.
-    Determine the county with the largest turnout.
+   - Get a complete list of the counties.
+   - Calculate the total number of votes for each county.
+   - Calculate the percentage of votes for eachcounty.
+   - Determine the county with the largest turnout.
 
 ## Challenge Summary 
 
