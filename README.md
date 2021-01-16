@@ -56,13 +56,32 @@ The analysis of the election show that :
    - Determine the county with the largest turnout.
 
 **2- Election-Audit Results** 
+
    2.1- Number of votes cast in this congressional election
    
-    The total amount of votes that were cased in the congressional election was 369,711.
+   The total amount of votes that were cased in the congressional election was 369,711.
  
-   2.2- The breakdown of the number of votes and 
+   2.2- The breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+   
+   *County Votes:*
 
-    - Denver received the most votes within this election, winning 82/8% of the total votes.
-    - Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
+   - Jefferson county has 10.5% total percentage with a total votes of 38,855
+   - Denver county has the 82.8% total percentage with a total votes of 306,055
+   - Arapahoe county has 6.7% total percentage with a total votes of 24,801
+    
+   2.3- County with Largest Number of Votes:
 
-As for the candidates, Diana DeGette received the most votes, which was 73.8% of all votes or 272,892 votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes.
+   - Denver county has the largest number total of 306,055. In addition, Denver county has the total votes percentage of 82.8%. **Denver county is the Largest County Turnout.**
+   
+     2.4- Breakdown of the number of votes and the percentage of the total votes each candidate received.
+     
+   - Charles Casper Stockham candidate has 23.0% total percentage with a total votes of 85,213.
+   - Diana DeGette candidate has the 73.8 total percentage with a total votes of 272,892.
+   - Raymon Anthony Doane candidate has 3.1% total percentage with a total votes of 11,606.
+
+   - Denver received the most votes within this election, winning 82/8% of the total votes.
+   - Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
+   
+     2.5- Tha candidate that won the election 
+   
+   As for the candidates, **Diana DeGette** received the most votes, which was *73.8%* of all votes or *272,892* votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes.
