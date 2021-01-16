@@ -56,11 +56,13 @@ The analysis of the election show that :
    - Determine the county with the largest turnout.
 
 **2- Election-Audit Results** 
+   2.1- Number of votes cast in this congressional election
+   
+    The total amount of votes that were cased in the congressional election was 369,711.
+ 
+   2.2- The breakdown of the number of votes and 
 
-- The total amount of votes that were cased in the congressional election was 369,711. 
-**The breakdown of the number of votes and 
-
-- Denver received the most votes within this election, winning 82/8% of the total votes.
-- Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
+    - Denver received the most votes within this election, winning 82/8% of the total votes.
+    - Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
 
 As for the candidates, Diana DeGette received the most votes, which was 73.8% of all votes or 272,892 votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes.
