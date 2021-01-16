@@ -11,7 +11,11 @@ A Colorad Board of Election employee has given the following tasks to complete t
 
 ## Resources
 - Data Source : Election_results.csv
-- Software : Python 3.7 (64 bit) .Visual Studio Code
+- Software : Python 3.7 (64 bit) .Visual Studio Code.
+- PyPoll_Challenge.py has the code for the challenge requirements.
+- PyPoll.py contain the code for the practice in Canvas.
+- Election_analysis.txt has an output of the results of Pypoll.py.
+- Election_results.txt has the output of the results of PyPoll_challenge.py.
 
 ## Summary 
 
