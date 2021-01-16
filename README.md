@@ -19,6 +19,8 @@ A Colorad Board of Election employee has given the following tasks to complete t
 
 ## Summary 
 
+in this Section, we will be analysing the results of the PyPoll.py.
+
 The analysis of the election show that :
 - There were "369712" votes cast in the election 
 - The candidates were : 
