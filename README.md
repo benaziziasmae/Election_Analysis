@@ -20,7 +20,8 @@ Seth, a Colorad Board of Election employee has given the following tasks to comp
 
 ## Summary 
 
-in this Section, we will be analysing the results after running the code of PyPoll_challenge.py. 
+In this Section, we will be analysing the results after running the code of PyPoll_challenge.py. 
+The data presented includes three columns: ballot ID, county, and candidate name.
 
 The analysis of the election show that :
 - There were "369 711" votes cast in the election 
@@ -42,16 +43,25 @@ The analysis of the election show that :
  
 ## Challenge overview
 
+**1- Overview of Election Audit**
+
+- 
 In this section, we will help to find out which county is the largest based off of votes. We previously learned how to read csv files in python and begin to run the data with our coding skills. 
+- Breanking down our data: The data file has 3 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In this part  we are slightly doing something similar but different. This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
 
-Breanking down our data: The data file has 3 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In this part  we are slightly doing something similar but different. This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
+- After sharing the election audit the election commission asked to confirm each county turnout.
 
-After sharing the election audit the election commission asked to confirm each county turnout.
-
-Get a complete list of the counties.
-Calculate the total number of votes for each county.
-Calculate the percentage of votes for eachcounty.
-Determine the county with the largest turnout.
+    Get a complete list of the counties.
+    Calculate the total number of votes for each county.
+    Calculate the percentage of votes for eachcounty.
+    Determine the county with the largest turnout.
 
 ## Challenge Summary 
 
+- The total amount of votes that were cased in the congressional election was 369,711. 
+**The breakdown of the number of votes and 
+
+- Denver received the most votes within this election, winning 82/8% of the total votes.
+- Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
+
+As for the candidates, Diana DeGette received the most votes, which was 73.8% of all votes or 272,892 votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes.
