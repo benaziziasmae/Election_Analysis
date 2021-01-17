@@ -11,7 +11,7 @@ Seth, a Colorad Board of Election employee has given the following tasks to comp
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-- Data Source : Election_results.csv
+- Data Source : [election_results.csv](/Resources/election_results.csv)
 - Software : Python 3.7 (64 bit) .Visual Studio Code.
 - PyPoll_Challenge.py has the code for the challenge requirements.
 - PyPoll.py contain the code for the practice in Canvas.
@@ -20,11 +20,13 @@ Seth, a Colorad Board of Election employee has given the following tasks to comp
 
 ## Summary 
 
-In this Section, we will be analysing the results after running the code of PyPoll_challenge.py. 
+In this Section, we will be analyzing the results after running the code of PyPoll_challenge.py. 
 The data presented includes three columns: ballot ID, county, and candidate name.
 
+***Just to remind the previous result***
+
 The analysis of the election show that :
-- There were "369 711" votes cast in the election 
+- There were "369 711" votes cast in the election. 
 - The candidates were : 
     - Candidate 1 : Charles Casper Stockham
     - Candidate 2 : Diana DeGette
@@ -45,7 +47,9 @@ The analysis of the election show that :
 
 **1- Overview of Election Audit**
 
-- In this section, we will help to find out which county is the largest based off of votes. We previously learned how to read csv files in python and begin to run the data with our coding skills. 
+In this section, we will help to find out which county is the largest based off of votes. 
+
+- We previously learned how to read csv files in python and begin to run the data with our coding skills. 
 - Breanking down our data: The data file has 3 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In this part  we are slightly doing something similar but different. This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
 
 - After sharing the election audit the election commission asked to confirm each county turnout.
@@ -57,7 +61,7 @@ The analysis of the election show that :
 
 **2- Election-Audit Results** 
 
-   2.1- Number of votes cast in this congressional election
+   2.1- Number of votes cast in this congressional election.
    
    The total amount of votes that were cased in the congressional election was 369,711.
  
@@ -65,15 +69,15 @@ The analysis of the election show that :
    
    *County Votes:*
 
-   - Jefferson county has 10.5% total percentage with a total votes of 38,855
-   - Denver county has the 82.8% total percentage with a total votes of 306,055
-   - Arapahoe county has 6.7% total percentage with a total votes of 24,801
+   - Jefferson county has 10.5% total percentage with a total votes of 38,855.
+   - Denver county has the 82.8% total percentage with a total votes of 306,055.
+   - Arapahoe county has 6.7% total percentage with a total votes of 24,801.
     
    2.3- County with Largest Number of Votes:
 
    - Denver county has the largest number total of 306,055. In addition, Denver county has the total votes percentage of 82.8%. **Denver county is the Largest County Turnout.**
    
-     2.4- Breakdown of the number of votes and the percentage of the total votes each candidate received.
+   2.4- Breakdown of the number of votes and the percentage of the total votes each candidate received.
      
    - Charles Casper Stockham candidate has 23.0% total percentage with a total votes of 85,213.
    - Diana DeGette candidate has the 73.8 total percentage with a total votes of 272,892.
@@ -82,12 +86,16 @@ The analysis of the election show that :
    - Denver received the most votes within this election, winning 82/8% of the total votes.
    - Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the total votes.
    
-     2.5- Tha candidate that won the election 
+   2.5- Tha candidate that won the election 
    
    As for the candidates, **Diana DeGette** received the most votes, which was *73.8%* of all votes or *272,892* votes. The second place candidate, Charles Casper Stockham, received 23% of the total votes. Finally, the third candidate, Raymon Anthony Doane, only received 3.1% of the overall votes.
    
+   ![election_results](/Resources/election_results.png)
+   
    **3- Election-Audit Summary**
    
-   This script can be modified to find the most number of votes for different filters other than candidates and county. If the data included other characteristics, such as demographics and geography, the script can be modified to include these characteristics and the analysis can be broken down even further.
-
-This script can also be modified to determine patterns among the characteristics. We could test the percentage of voters by county against each candidate. This would allow us to see which candidate was the most popular within a county or geographical area.
+   This election script can generate other outputs. The script can be modified in order to find the most number of votes using different filters other than candidates and county.
+   
+   The analysis can be broken down even further By including other data characteristics, such as demographics, geography, states...So the new script can determine patterns among those characteristics. We could test the percentage of voters by county against each candidate. Aslo, This would allow us to see which candidate was the most popular within a county or geographical area.
+   
+   
